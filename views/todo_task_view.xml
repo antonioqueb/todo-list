@@ -32,7 +32,7 @@
         <field name="view_mode">tree,form</field>
     </record>
 
-    <menuitem id="my_new_menu" name="My New Menu"/>
+    <menuitem id="Desarrollo" name="Desarrollo"/>
 
     <menuitem id="menu_todo_task" name="Todo Tasks" parent="Desarrollo" action="action_todo_task"/>
 </odoo>
