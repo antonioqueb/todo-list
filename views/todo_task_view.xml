@@ -34,5 +34,5 @@
 
     <menuitem id="my_new_menu" name="My New Menu"/>
 
-    <menuitem id="menu_todo_task" name="Todo Tasks" parent="my_new_menu" action="action_todo_task"/>
+    <menuitem id="menu_todo_task" name="Todo Tasks" parent="Desarrollo" action="action_todo_task"/>
 </odoo>
